@@ -1,9 +1,7 @@
 # EAGLE Δ
 
-<p align="center">
-  <a href="http://127.0.0.1:5500/eagle%20demo%20model/eagle-delta.html">
-    <img src=""eagledeltafront.JPEG"" alt="EAGLE Δ - WiFi DensePose" width="100%">
-  </a>
+(eagledeltafront.jpeg)
+  
 </p>
 <p align="center">
   <a href="http://127.0.0.1:5500/eagle%20demo%20model/eagle-delta.html">
