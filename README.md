@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="http://127.0.0.1:5500/eagle%20demo%20model/eagle-delta.html">
-    <img src=""https://ibb.co/KzG4SDyC"" alt="EAGLE Δ - WiFi DensePose" width="100%">
+    <img src=""eagledeltafront.jpeg"" alt="EAGLE Δ - WiFi DensePose" width="100%">
   </a>
 </p>
 <p align="center">
   <a href="http://127.0.0.1:5500/eagle%20demo%20model/eagle-delta.html">
-    <img src=""C:\Users\HP\Downloads\netra32.jpeg"" alt="Cognitum Seed" width="100%">
+    <img src=""netra32.jpeg"" alt="eagleDELTA" width="100%">
   </a>
 </p>
 
