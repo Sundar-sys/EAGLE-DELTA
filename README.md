@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="http://127.0.0.1:5500/eagle%20demo%20model/eagle-delta.html">
-    <img src=""eagledeltafront.jpeg"" alt="EAGLE Δ - WiFi DensePose" width="100%">
+    <img src=""eagledeltafront.JPEG"" alt="EAGLE Δ - WiFi DensePose" width="100%">
   </a>
 </p>
 <p align="center">
   <a href="http://127.0.0.1:5500/eagle%20demo%20model/eagle-delta.html">
-    <img src=""netra32.jpeg"" alt="eagleDELTA" width="100%">
+    <img src=""netra32.JPEG"" alt="eagleDELTA" width="100%">
   </a>
 </p>
 
@@ -137,7 +137,7 @@ pip install "ruview[client]"              # or: pip install "wifi-densepose[clie
 
 
   <a href="https://ruvnet.github.io/RuView/">
-    <img src=""skeletonimg.jpeg"" alt="WiFi DensePose — Live pose detection with setup guide" width="800">
+    <img src=""skeletonimg.JPEG"" alt="WiFi DensePose — Live pose detection with setup guide" width="800">
   </a>
   <br>
   <em>Real-time pose skeleton from WiFi CSI signals — no cameras, no wearables</em>
