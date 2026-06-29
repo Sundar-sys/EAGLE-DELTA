@@ -137,7 +137,7 @@ pip install "ruview[client]"              # or: pip install "wifi-densepose[clie
 
 
   <a href="https://ruvnet.github.io/RuView/">
-    <img src=""C:\Users\HP\Downloads\skeletonimg.jpeg"" alt="WiFi DensePose — Live pose detection with setup guide" width="800">
+    <img src=""skeletonimg.jpeg"" alt="WiFi DensePose — Live pose detection with setup guide" width="800">
   </a>
   <br>
   <em>Real-time pose skeleton from WiFi CSI signals — no cameras, no wearables</em>
