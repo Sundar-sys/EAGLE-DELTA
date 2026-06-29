@@ -2,12 +2,7 @@
 
 ![EAGLE Δ - WiFi DensePose](eagledeltafront.jpeg)
   
-</p>
-<p align="center">
-  <a href="http://127.0.0.1:5500/eagle%20demo%20model/eagle-delta.html">
-    <img src=""netra32.JPEG"" alt="eagleDELTA" width="100%">
-  </a>
-</p>
+![EAGLE Δ - WiFi DensePose](netra32.jpeg)
 
 ## **See through walls with WiFi** ##
 
@@ -133,10 +128,7 @@ pip install "ruview[client]"              # or: pip install "wifi-densepose[clie
 >
 ---
 
-
-  <a href="https://ruvnet.github.io/RuView/">
-    <img src=""skeletonimg.JPEG"" alt="WiFi DensePose — Live pose detection with setup guide" width="800">
-  </a>
+![EAGLE Δ - WiFi DensePose](skeletonimg.jpeg)
   <br>
   <em>Real-time pose skeleton from WiFi CSI signals — no cameras, no wearables</em>
   <br><br>
