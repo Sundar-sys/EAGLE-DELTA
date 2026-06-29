@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="http://127.0.0.1:5500/eagle%20demo%20model/eagle-delta.html">
-    <img src=""C:\Users\HP\Downloads\eagledeltafront.jpeg"" alt="EAGLE Δ - WiFi DensePose" width="100%">
+    <img src=""https://ibb.co/KzG4SDyC"" alt="EAGLE Δ - WiFi DensePose" width="100%">
   </a>
 </p>
 <p align="center">
