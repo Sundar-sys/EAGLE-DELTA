@@ -1,6 +1,6 @@
 # EAGLE Δ
 
-(eagledeltafront.jpeg)
+![EAGLE Δ - WiFi DensePose](eagledeltafront.jpeg)
   
 </p>
 <p align="center">
