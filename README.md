@@ -2,7 +2,7 @@
 
 ![EAGLE Δ - WiFi DensePose](eagledeltafront1.jpeg)
   
-![EAGLE Δ - WiFi DensePose](netra32.jpeg)
+![EAGLE Δ - WiFi DensePose](netra321.jpeg)
 
 ## **See through walls with WiFi** ##
 
