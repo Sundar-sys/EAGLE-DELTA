@@ -1,6 +1,6 @@
 # EAGLE Δ
 
-![EAGLE Δ - WiFi DensePose](eagledeltafront.jpeg)
+![EAGLE Δ - WiFi DensePose](eaglefront.jpeg)
   
 ![EAGLE Δ - WiFi DensePose](netra321.jpeg)
 
